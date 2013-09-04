@@ -1,11 +1,11 @@
-package 
+package com.test
 {
 	
 	/**
 	 * ...
 	 * @author kid
 	 */
-	public class  test
+	public function test()
 	{
 		trace("this is the test as");
 	}
