@@ -10,4 +10,9 @@ package com.test
 		trace("this is the test as");
 	}
 	
+	public function init()
+	{
+		trace("init");
+	}
+	
 }
